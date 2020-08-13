@@ -1,0 +1,66 @@
+body {
+    background: url('../../assets/waves.svg') no-repeat 40rem;
+}
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.4rem 4.6rem 0;
+}
+.left-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.li-container ul {
+    display: flex;
+    list-style: none;
+    margin-left: 9rem;
+    gap: 2rem;
+}
+.left-content li {
+    font: 400 1.2rem Archivo;
+    color: #1B0A42;
+}
+button {
+    border: 0;
+    border-radius: 0.4rem;
+    font: 400 1.2rem Poppins;
+    margin-right: 0.5rem;
+    height: 3rem;
+    width: 6rem;
+    cursor: pointer;
+}
+#btn-1 {
+    color: #1B0A42;
+    background-color: #FFF;
+}
+#btn-2 {
+    color: #FFF;
+    background-color: #824FF1;
+}
+#btn-3 {
+    color: #FFF;
+    background-color: #824FF1;
+    width: 9rem;
+    margin-top: 2rem;
+}
+.meditation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 13rem;
+}
+.meditation h1 {
+    color: #1B0A42;
+    font: 400 3.2rem Archivo;
+}
+.meditation p {
+    color: #9A9A9A;
+    font: 400 1.1rem Archivo;
+    margin-top: 1rem;
+}
+.meditation img {
+    width: 40rem;
+    height: 40rem;
+}
