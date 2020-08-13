@@ -5,8 +5,6 @@
   <img src="https://i.imgur.com/TM5xDgP.png" alt="Covid">
   <img src="https://i.imgur.com/PUq6ZhC.png" alt="Explore">
   <img src="https://i.imgur.com/tVeP31V.png" alt="Trafalgar">
-
-  https://i.imgur.com/tVeP31V.png
 </p>
 
 **Tecnologias utilizadas:**
